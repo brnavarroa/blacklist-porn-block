@@ -1,0 +1,14 @@
+# blacklist_Facebook
+
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 static.ak.fbcdn.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 video.fbcdn.net
+0.0.0.0 apps.facebook.com
+0.0.0.0 business.facebook.com
+0.0.0.0 fbstatic-a.akamaihd.net
+0.0.0.0 fbcdn-photos-a-a.akamaihd.net
+0.0.0.0 fbcdn-video-a.akamaihd.net
